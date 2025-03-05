@@ -1,4 +1,4 @@
- <h2 align="center">Hi 👋! My name is mohan and I'm a CSE student from Giet engineering college</h2>
+<h2 align="center">Hi 👋! My name is mohan and I'm a CSE student from Giet engineering college</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"  />
 
 ###
 
